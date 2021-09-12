@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-09-11 19:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-06-24 14:16:59 +0000"
@@ -607,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-06-24 17:32:50 +0000"
@@ -630,6 +642,7 @@
       "minecraft:pillager": "2020-06-25 18:50:33 +0000",
       "minecraft:blaze": "2020-08-24 13:11:38 +0000",
       "minecraft:skeleton": "2020-06-24 13:31:24 +0000",
+      "minecraft:zombie_pigman": "2021-09-11 18:51:02 +0000",
       "minecraft:ghast": "2020-08-24 12:59:49 +0000",
       "minecraft:spider": "2020-06-24 14:07:11 +0000",
       "minecraft:creeper": "2020-06-24 13:54:22 +0000",
@@ -748,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-09-11 19:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-06-24 13:32:06 +0000"
@@ -757,6 +776,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2020-06-24 17:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-09-11 19:59:50 +0000"
     },
     "done": true
   },
@@ -826,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-09-11 21:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-06-24 11:36:59 +0000"
@@ -847,6 +878,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-08-24 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
     },
     "done": true
   },
@@ -889,6 +926,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-06-24 16:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-09-11 19:59:50 +0000"
     },
     "done": true
   },
@@ -1215,13 +1258,19 @@
       "minecraft:forest": "2020-05-30 17:46:35 +0000",
       "minecraft:mountains": "2020-06-24 12:35:59 +0000",
       "minecraft:taiga": "2020-06-24 13:31:43 +0000",
+      "minecraft:giant_tree_taiga": "2021-09-11 21:27:06 +0000",
       "minecraft:taiga_hills": "2020-06-24 13:28:21 +0000",
+      "minecraft:birch_forest": "2021-09-11 20:52:29 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-09-11 20:11:38 +0000",
       "minecraft:beach": "2020-06-25 18:50:34 +0000",
       "minecraft:dark_forest": "2020-06-24 13:53:27 +0000",
       "minecraft:river": "2020-06-24 12:34:39 +0000",
       "minecraft:lukewarm_ocean": "2020-07-22 18:54:23 +0000",
+      "minecraft:birch_forest_hills": "2021-09-11 20:52:44 +0000",
       "minecraft:wooded_mountains": "2020-06-25 10:14:34 +0000",
       "minecraft:wooded_hills": "2020-06-24 14:10:47 +0000",
+      "minecraft:stone_shore": "2021-09-11 21:02:03 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-09-11 22:26:57 +0000",
       "minecraft:plains": "2020-06-24 12:34:44 +0000"
     },
     "done": false
@@ -1241,6 +1290,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-06-24 12:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-09-11 20:26:16 +0000"
     },
     "done": true
   },
@@ -1514,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-09-11 21:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-06-24 13:27:36 +0000"
@@ -1759,9 +1820,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-06-24 12:11:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
     },
     "done": true
   },
@@ -1828,6 +1901,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-24 12:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-09-11 19:59:50 +0000"
     },
     "done": true
   },
@@ -2180,6 +2259,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-09-11 21:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-06-24 13:32:06 +0000"
@@ -2357,6 +2442,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2020-06-24 16:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-09-11 19:59:50 +0000"
     },
     "done": true
   },
@@ -2540,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2021-09-11 20:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2020-06-24 12:07:55 +0000"
@@ -2561,6 +2658,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-06-24 11:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-09-11 20:26:16 +0000"
     },
     "done": true
   },
@@ -2609,6 +2712,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-08-24 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
     },
     "done": true
   },
@@ -2744,6 +2853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-06-24 12:11:05 +0000"
@@ -2786,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-08-24 12:24:35 +0000"
@@ -2807,6 +2928,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2020-07-31 08:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-09-11 20:51:31 +0000"
     },
     "done": true
   },

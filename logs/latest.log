@@ -1,5 +1,389 @@
-[06:13:19] [Server thread/INFO]: B1Z0N[/193.107.134.244:6692] logged in with entity id 162503 at (309.1238723775711, 68.0625, 647.9509446205018)
-[06:13:19] [Server thread/INFO]: B1Z0N joined the game
-[06:13:34] [Server thread/INFO]: [B1Z0N: Set own game mode to Spectator Mode]
-[06:15:47] [Server thread/INFO]: B1Z0N lost connection: Disconnected
-[06:15:47] [Server thread/INFO]: B1Z0N left the game
+[19:22:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:22:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:22:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:22:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:22:41] [Server thread/INFO]: Loading properties
+[19:22:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:22:41] [Server thread/INFO]: Generating keypair
+[19:22:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:22:42] [Server thread/INFO]: Using epoll channel type
+[19:22:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:22:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:22:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:22:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:22:42] [Server thread/INFO]: Preparing level "world"
+[19:22:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:23:38] [Server thread/INFO]: Loaded 6 recipes
+[19:23:38] [Server thread/INFO]: Loaded 825 advancements
+[19:23:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server thread/INFO]: Preparing spawn area: 0%
+[19:23:43] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[19:23:44] [Server thread/INFO]: Preparing spawn area: 38%
+[19:23:45] [Server thread/INFO]: Preparing spawn area: 66%
+[19:23:45] [Server thread/INFO]: Time elapsed: 6079 ms
+[19:23:45] [Server thread/INFO]: Done (62.786s)! For help, type "help"
+[19:23:45] [Server thread/INFO]: Unknown command
+[19:23:45] [Server thread/INFO]: <--[HERE]
+[19:23:49] [Server thread/INFO]: B1Z0N[/5.53.114.100:49316] logged in with entity id 112 at (256.1960825548777, 64.0, 648.4981967694172)
+[19:23:49] [Server thread/INFO]: B1Z0N joined the game
+[19:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[19:24:25] [Server thread/INFO]: DMS007[/5.53.114.100:63290] logged in with entity id 435 at (281.38095123597896, 64.0, 641.549532634202)
+[19:24:25] [Server thread/INFO]: DMS007 joined the game
+[19:24:37] [Server thread/INFO]: B1Z0N was stung to death
+[19:24:42] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[19:29:14] [Server thread/INFO]: <DMS007> ww
+[19:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4573ms or 91 ticks behind
+[19:35:32] [Server thread/WARN]: DMS007 moved too quickly! -5.561910226359373,2.909241861489704,9.482443404381684
+[19:35:56] [Server thread/WARN]: DMS007 moved too quickly! -0.2378096356272863,-10.11464459528699,0.20351115155995103
+[19:36:05] [Server thread/WARN]: DMS007 moved too quickly! -8.33094484792889,5.98326070511736,6.255807439960336
+[19:36:42] [Server thread/INFO]: DMS007 lost connection: Disconnected
+[19:36:42] [Server thread/INFO]: DMS007 left the game
+[19:37:27] [Server thread/INFO]: DMS007[/5.53.114.100:63337] logged in with entity id 3188 at (-806.04055831641, 72.0, 1368.0398210742883)
+[19:37:27] [Server thread/INFO]: DMS007 joined the game
+[19:39:15] [Server thread/INFO]: DMS007 lost connection: Disconnected
+[19:39:15] [Server thread/INFO]: DMS007 left the game
+[19:42:34] [Server thread/INFO]: DMS007[/5.53.114.100:63426] logged in with entity id 3445 at (-803.3933219610766, 71.0, 1366.300000011921)
+[19:42:34] [Server thread/INFO]: DMS007 joined the game
+[19:46:34] [Server thread/INFO]: DMS007 tried to swim in lava
+[19:51:01] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[20:15:06] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[20:15:06] [Server thread/INFO]: B1Z0N left the game
+[20:15:34] [Server thread/INFO]: B1Z0N[/5.53.114.100:50928] logged in with entity id 7092 at (567.7017264658375, 26.0, 602.4441316939511)
+[20:15:34] [Server thread/INFO]: B1Z0N joined the game
+[20:22:25] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[20:22:25] [Server thread/INFO]: B1Z0N left the game
+[20:22:37] [Server thread/INFO]: B1Z0N[/5.53.114.100:50962] logged in with entity id 8644 at (656.151714913297, 25.878349854260495, 568.6999999880791)
+[20:22:37] [Server thread/INFO]: B1Z0N joined the game
+[20:23:11] [Server thread/INFO]: B1Z0N drowned
+[20:25:47] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[20:26:59] [Server thread/INFO]: B1Z0N tried to swim in lava
+[20:28:59] [Server thread/INFO]: DMS007 tried to swim in lava
+[20:48:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=663, y=43, z=593} fk{x=664, y=42, z=592}
+[20:48:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=665, y=44, z=592} fk{x=664, y=42, z=592}
+[20:50:19] [Server thread/WARN]: Fetching packet for removed entity axp['Zombie'/9518, l='world', x=237.50, y=19.35, z=466.40]
+[20:50:55] [Server thread/WARN]: B1Z0N moved wrongly!
+[20:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[20:55:08] [Server thread/INFO]: DMS007 tried to swim in lava
+[20:56:03] [Server thread/WARN]: B1Z0N moved wrongly!
+[20:56:48] [Server thread/INFO]: DMS007 tried to swim in lava to escape Zombie
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.39961570877972,0.0,0.07271983009968608
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.799603310985503,0.0,0.07573908937797569
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.199590965348534,0.0,0.07876321585399637
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.59957866665286,0.0,0.08179172280779312
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.99956641020458,0.0,0.08482417219147464
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.399554191778861,0.0,0.08786016976205246
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.799542007573564,0.0,0.09089936070063231
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.199529854166485,0.0,0.09394142567043673
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.59951772847785,0.0,0.09698607726841146
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.999505627735743,0.0,0.10003305683153485
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 14.399493549445651,0.0,0.10308213156304191
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 14.799481491362258,0.0,0.10613309194627618
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.199469451464893,0.0,0.10918574941592851
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.599457427935022,0.0,0.11223993426347079
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.99944541913601,0.0,0.1152954937508639
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.399433423594473,0.0,0.11835229041435014
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.799421439984826,0.0,0.12141020053604734
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 17.199409467114037,0.0,0.12446911277015715
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 17.599397503907994,0.0,0.1275289269053701
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 17.99938554940036,0.0,0.13058955275164408
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 18.399373602721198,0.0,0.1336509091379412
+[21:00:57] [Server thread/WARN]: DMS007 moved too quickly! -8.943577333298208,0.1264991928781498,-4.615149026316544
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 18.799361663087666,0.0,0.13671292301000904
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 19.19934972979513,0.0,0.1397755286195661
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 19.599337802209675,0.0,0.14283866679261337
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 19.99932587976059,0.0,0.14590228427277907
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 20.399313961934013,0.0,0.14896633312946506
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 20.79930204826792,0.0,0.15203077022488287
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 21.199290138346214,0.0,0.1550955567352048
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 21.599278231794415,0.0,0.15816065771900867
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 21.999266328275553,0.0,0.16122604172892352
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 22.399254427486312,0.0,0.16429168046215636
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 22.799242529153616,0.0,0.1673575484464891
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 23.199230633031902,0.0,0.17042362275697087
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 23.599218738900163,0.0,0.1734898827608049
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 23.99920684655922,0.0,0.17655630988861049
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 24.399194955830126,0.0,0.17962288742796773
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 24.799183066551677,0.0,0.18268960033788062
+[21:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.199543014052551,0.0,0.1160504562622009
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.59953112725475,0.0,0.11911740065556842
+[21:00:57] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.999519241514463,0.0,0.1221844437341133
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.399691197844959,0.0,0.07976431178099119
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.799679321481563,0.0,0.0828322298968942
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.199667445132263,0.0,0.08590014932565282
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.599655568795697,0.0,0.08896806993584505
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.9996436924705,0.0,0.09203599160946396
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.399631816155534,0.0,0.09510391424009867
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.79961993984989,0.0,0.09817183773202487
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.199608063552432,0.0,0.10123976199906792
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.599596187262478,0.0,0.10430768696392079
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.999584310979344,0.0,0.10737561255655237
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 14.359573612787926,0.0,0.1101367455169111
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 14.68356397583284,0.0,0.11262176511536381
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 14.975155294848719,0.0,0.11485828269474041
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.237587475010969,0.0,0.1168711484629057
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.473776430900216,0.0,0.11868272760625587
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.686346485569402,0.0,0.12031314879209276
+[21:01:00] [Server thread/WARN]: DMS007 moved too quickly! -2.5608737631989698,0.2131680611200295,-9.836681685492294
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 15.877659529703578,0.0,0.12178052782041959
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.049841264863062,0.0,0.12310116891080725
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.204804822401456,0.0,0.12428974586077857
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.344272020491417,0.0,0.12535946508728557
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.46979249544711,0.0,0.1263222123657215
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.582760919914563,0.0,0.12718868489332635
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.684432499241893,0.0,0.12796851014763888
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.775936918212437,0.0,0.12867035285785278
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.858290893104368,0.0,0.12930201128028784
+[21:01:00] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 16.93240946854371,0.0,0.12987050384549548
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.259504237428246,0.0,-0.9391287252353777
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.655547843110298,0.0,-0.9337233757016747
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.051962185497814,0.0,-0.9274475916008669
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.448714329708991,0.0,-0.9205110649577364
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.845774261822044,0.0,-0.9131025308131484
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.243112942749804,0.0,-0.9053305242723582
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.640704144182564,0.0,-0.89729272972113
+[21:01:33] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.038525627823674,0.0,-0.8891384076343911
+[21:01:33] [Server thread/WARN]: DMS007 moved too quickly! 6.654088212862575,-2.0,-7.552161659324838
+[21:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.182252390844042,0.0,2.1153191828752824
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.57535717099654,0.0,2.187703503276225
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.969043079271387,0.0,2.2557919722707993
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.363305997200086,0.0,2.3191568607744557
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.758121859449602,0.0,2.3774735800188864
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.153452314194965,0.0,2.4305108415619543
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.549249664717536,0.0,2.4781830164879466
+[21:01:47] [Server thread/WARN]: DMS007 moved too quickly! 6.148712915065175,-8.843826519640139,0.7429672218064525
+[21:01:47] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.94546256481567,0.0,2.520474404434026
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.334226892611468,0.0,-0.7948092856991025
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 10.731035591472846,0.0,-0.8425586741034294
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.127807726826177,0.0,-0.8908555434984464
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.524546955023197,0.0,-0.9396451457721469
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 11.921256566780357,0.0,-0.9888782076247935
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.317939523742325,0.0,-1.0385103830878961
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 12.714598491389097,0.0,-1.0885017607911323
+[21:01:55] [Server thread/WARN]: Boat (vehicle of B1Z0N) moved too quickly! 13.111235868653011,0.0,-1.1388164205015983
+[21:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6330ms or 126 ticks behind
+[21:03:01] [Server thread/WARN]: B1Z0N moved wrongly!
+[21:03:30] [Server thread/INFO]: DMS007 was blown up by Creeper
+[21:04:31] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[21:04:31] [Server thread/INFO]: B1Z0N left the game
+[21:04:44] [Server thread/INFO]: B1Z0N[/5.53.114.100:51336] logged in with entity id 17356 at (1292.9375371256444, 55.0, 1074.6073735116017)
+[21:04:44] [Server thread/INFO]: B1Z0N joined the game
+[21:05:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1289, y=52, z=1075} fk{x=1293, y=51, z=1076}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1289, y=52, z=1075} fk{x=1293, y=52, z=1075}
+[21:05:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=1289, y=52, z=1075} fk{x=1293, y=51, z=1075}
+[21:08:19] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[21:08:19] [Server thread/INFO]: B1Z0N left the game
+[21:11:41] [Server thread/INFO]: DMS007 was impaled by Drowned
+[21:13:01] [Server thread/INFO]: B1Z0N[/5.53.114.100:51362] logged in with entity id 19454 at (1292.1638161151056, 61.825543331628126, 1073.0817766845519)
+[21:13:01] [Server thread/INFO]: B1Z0N joined the game
+[21:16:16] [Server thread/WARN]: DMS007 moved wrongly!
+[21:16:50] [Server thread/INFO]: DMS007 drowned
+[21:17:47] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:19:46] [Server thread/INFO]: B1Z0N has made the advancement [Best Friends Forever]
+[21:20:19] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[21:20:25] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:23:34] [Server thread/WARN]: Horse moved wrongly!
+[21:25:00] [Server thread/WARN]: Horse moved wrongly!
+[21:25:00] [Server thread/WARN]: Horse moved wrongly!
+[21:25:00] [Server thread/WARN]: Horse moved wrongly!
+[21:25:45] [Server thread/WARN]: B1Z0N was kicked for floating too long!
+[21:25:45] [Server thread/INFO]: B1Z0N lost connection: Flying is not enabled on this server
+[21:25:45] [Server thread/INFO]: B1Z0N left the game
+[21:25:45] [Server thread/WARN]: handleDisconnection() called twice
+[21:25:49] [Server thread/INFO]: B1Z0N[/5.53.114.100:51390] logged in with entity id 23115 at (1338.2379028303765, 68.8500000178814, 826.6982421875)
+[21:25:49] [Server thread/INFO]: B1Z0N joined the game
+[21:25:55] [Server thread/WARN]: Horse moved wrongly!
+[21:25:55] [Server thread/WARN]: Horse moved wrongly!
+[21:26:25] [Server thread/WARN]: Horse moved wrongly!
+[21:26:25] [Server thread/WARN]: Horse moved wrongly!
+[21:27:09] [Server thread/WARN]: Horse moved wrongly!
+[21:27:36] [Server thread/INFO]: DMS007 suffocated in a wall
+[21:28:18] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 8.442810451015248,5.0,3.548382285737773
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 8.996150821004903,5.0,3.6707325764019743
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 9.551642052740135,5.0,3.7853220226817825
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 10.109007148081673,5.0,3.8917738744838744
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 10.667844575471918,6.0,3.991075644926582
+[21:29:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! 11.228088652569568,6.0,4.08254912868
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:13] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:29:14] [Server thread/WARN]: Horse moved wrongly!
+[21:31:50] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -4.758234045847985,-0.9999999999999929,-8.955639527070105
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -5.013845277985183,-0.9999999999999929,-9.448300271035635
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -5.270480943917391,-0.9999999999999929,-9.942936831772215
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -5.512907537555293,-0.9999999999999929,-10.44570746032872
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -5.72917795599551,-0.9999999999999929,-10.960184084044727
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -5.93107610625475,-0.9999999999999929,-11.481056834620063
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -6.12528394236233,-0.9999999999999929,-12.005352025152831
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -6.311599603784998,0.0,-12.532771484519458
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -6.4830157482128925,0.0,-13.065173042961305
+[21:34:07] [Server thread/WARN]: Horse (vehicle of B1Z0N) moved too quickly! -6.642613307868942,0.0,-13.6013111559339
+[21:38:26] [Server thread/WARN]: Horse moved wrongly!
+[21:38:26] [Server thread/WARN]: Horse moved wrongly!
+[21:46:12] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[21:48:37] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:49:12] [Server thread/INFO]: B1Z0N has made the advancement [What a Deal!]
+[21:53:58] [Server thread/INFO]: <B1Z0N> 3100 300
+[21:56:00] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[21:56:06] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[21:56:40] [Server thread/INFO]: Villager axw['Cartographer'/27671, l='world', x=3093.70, y=67.78, z=292.09] died, message: 'Cartographer was slain by Zombie'
+[22:01:52] [Server thread/INFO]: Villager axw['Farmer'/27673, l='world', x=3039.84, y=69.00, z=247.65] died, message: 'Farmer was slain by Zombie'
+[22:02:09] [Server thread/WARN]: Fetching packet for removed entity awb['Stone'/30565, l='world', x=3125.23, y=13.00, z=319.88]
+[22:04:35] [Server thread/INFO]: B1Z0N tried to swim in lava
+[22:04:46] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[22:04:48] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[22:04:48] [Server thread/INFO]: B1Z0N left the game
+[22:04:51] [Server thread/INFO]: B1Z0N[/5.53.114.100:51476] logged in with entity id 30816 at (3166.102530157512, 16.0, 275.69999998807907)
+[22:04:51] [Server thread/INFO]: B1Z0N joined the game
+[22:04:55] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[22:04:55] [Server thread/INFO]: B1Z0N left the game
+[22:05:06] [Server thread/INFO]: B1Z0N[/5.53.114.100:51550] logged in with entity id 30818 at (3165.699999988079, 16.0, 276.5622026134242)
+[22:05:06] [Server thread/INFO]: B1Z0N joined the game
+[22:05:49] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[22:10:24] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/31198, l='world', x=3121.90, y=13.46, z=243.45]
+[22:11:17] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[22:14:51] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:38] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:26:39] [Server thread/WARN]: Horse moved wrongly!
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.7636686228720464,-6.221488851774602,-7.179857989842745
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.9246664799234168,-6.511038750654357,-7.439410266670606
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.9700636986212885,-6.865954480446106,-7.692973924472511
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.9700636986212885,-7.283647555467553,-7.941196931673147
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.9700636986212885,-7.761631994021037,-8.179201284739776
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 3.9804223375454058,-6.772546541336993,-8.382435769189897
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.126095323471418,-6.772546541336993,-8.762720913932384
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.341593846722844,-6.772546541336993,-9.187153219375588
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.594454622826106,-6.849378542832355,-9.635207790310318
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.743510563907876,-7.000000000000007,-9.897047788629024
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.886797294919688,-7.221488851774602,-10.147195774724722
+[22:29:07] [Server thread/WARN]: Horse (vehicle of DMS007) moved too quickly! 4.9700636986212885,-7.40003611415343,-10.359950867611488
+[22:33:04] [Server thread/WARN]: Horse moved wrongly!
+[22:33:04] [Server thread/WARN]: Horse moved wrongly!
+[22:34:08] [Server thread/INFO]: [DMS007: Teleported DMS007 to B1Z0N]
+[22:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[22:34:42] [Server thread/INFO]: DMS007 was shot by DMS007
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:13] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:14] [Server thread/WARN]: Horse moved wrongly!
+[22:38:20] [Server thread/WARN]: Horse moved wrongly!
+[22:38:20] [Server thread/WARN]: Horse moved wrongly!
+[22:38:49] [Server thread/WARN]: Horse moved wrongly!
+[22:38:49] [Server thread/WARN]: Horse moved wrongly!
+[22:43:24] [Server thread/INFO]: <DMS007> 269 648
+[22:44:22] [Server thread/WARN]: Horse moved wrongly!
+[22:44:29] [Server thread/WARN]: Horse moved wrongly!
+[22:48:32] [Server thread/WARN]: Horse moved wrongly!
+[22:48:55] [Server thread/INFO]: <DMS007> 269 648
+[22:50:57] [Server thread/INFO]: <DMS007> 269 648
+[22:51:39] [Server thread/WARN]: Horse moved wrongly!
+[22:51:39] [Server thread/WARN]: Horse moved wrongly!
+[22:52:26] [Server thread/WARN]: Horse moved wrongly!
+[23:04:10] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[23:04:39] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[23:04:39] [Server thread/INFO]: B1Z0N left the game
+[23:07:23] [Server thread/INFO]: B1Z0N[/5.53.114.100:51678] logged in with entity id 42524 at (261.00545565307164, 63.9375, 643.2266910264666)
+[23:07:23] [Server thread/INFO]: B1Z0N joined the game
+[23:11:16] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:11:54] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:12:10] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:12:37] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:12:53] [Server thread/INFO]: B1Z0N was shot by DMS007
+[23:13:05] [Server thread/INFO]: [B1Z0N: Teleported B1Z0N to DMS007]
+[23:13:50] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:14:20] [Server thread/INFO]: DMS007 was shot by B1Z0N
+[23:15:08] [Server thread/INFO]: DMS007 was burnt to a crisp whilst fighting B1Z0N
+[23:15:13] [Server thread/INFO]: DMS007 lost connection: Disconnected
+[23:15:13] [Server thread/INFO]: DMS007 left the game
+[23:15:39] [Server thread/INFO]: DMS007[/5.53.114.100:55150] logged in with entity id 43097 at (266.5, 68.0000002, 645.5)
+[23:15:39] [Server thread/INFO]: DMS007 joined the game
+[23:16:04] [Server thread/INFO]: DMS007 lost connection: Disconnected
+[23:16:04] [Server thread/INFO]: DMS007 left the game
+[23:16:12] [Server thread/INFO]: B1Z0N lost connection: Disconnected
+[23:16:12] [Server thread/INFO]: B1Z0N left the game
+[23:36:11] [Server thread/INFO]: Stopping server
+[23:36:11] [Server thread/INFO]: Saving players
+[23:36:11] [Server thread/INFO]: Saving worlds
+[23:36:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:36:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:36:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
